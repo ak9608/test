@@ -13,7 +13,7 @@ I just love **bold text**
 
 [Tux, the Linux mascot](https://www.tsvs.ntpc.edu.tw)
 
-![iphone 15](i15.jpg)
+![iphone 15](i15.jpeg)
 
 ```
 sum=0
