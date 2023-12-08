@@ -12,3 +12,10 @@ I just love **bold text**
 4. Fourth item
 
 [Tux, the Linux mascot](https://www.tsvs.ntpc.edu.tw)
+![iphone 15](i15.jpg)
+
+```
+sum=0
+if sum=0:
+  print(sum)
+```
